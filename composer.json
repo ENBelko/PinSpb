@@ -1,0 +1,15 @@
+{
+    "name": "enbelko/products",
+    "authors": [
+        {
+            "name": "ENBelko",
+            "email": "jekkiscript@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "PinSpb\\Products\\": "src/"
+        }
+    }
+}
